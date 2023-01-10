@@ -33,7 +33,7 @@ int main() {
     return 0;
 }
 
-7)full pyramid using star
+3)full pyramid using star
 
 #include <stdio.h>
 int main() 
@@ -56,7 +56,7 @@ int main()
 
 
 
-3)multiplication table of a given number
+4)multiplication table of a given number
 
 #include <stdio.h>
 
@@ -76,7 +76,7 @@ int main() {
 }
 
 
-4)Display n terms of odd numbers and their sum.
+5)Display n terms of odd numbers and their sum.
 
 #include <stdio.h>
 int main() {
@@ -95,7 +95,7 @@ int main() {
  return 0;
 }
 
-5)print the pattern 
+6)print the pattern 
 
 *
 **
@@ -123,7 +123,7 @@ int main() {
 }
 
 
-6) print the pattern
+7) print the pattern
 
 *****
 ****
